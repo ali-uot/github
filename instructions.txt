@@ -1,0 +1,8 @@
+git init
+git config --global user.email "ali.uom.iq@gmail.com"
+git config --global user.name "ali uot"
+git remote add origin git@github.com:ali-uot/github.git
+
+git add .
+git commit -m "First commit"
+git push origin master
